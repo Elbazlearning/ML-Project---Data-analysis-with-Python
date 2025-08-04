@@ -33,12 +33,4 @@ This notebook showcases my ability to:
 - Visualize insights for actionable business understanding
 - Structure and document findings in a reproducible, organized format
 
----
 
-Feel free to adapt or expand this README with details unique to your project, like:
-- Dataset source or description
-- Precise tools or versions used
-- Enumeration of additional files (e.g., visualizations, intermediate scripts)
-
-When you're ready, just create a file named `README.md`, copy this content into it, and upload or push to your repo. Let me know if you want to tailor any part or have specific project details to include!
-::contentReference[oaicite:0]{index=0}
