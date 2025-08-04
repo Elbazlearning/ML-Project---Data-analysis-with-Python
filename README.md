@@ -20,10 +20,6 @@ This project provides a complete data analysis workflow using Python to explore,
 └── README.md ← This file
 
 
-## 🧠 Key Insights
-- Summary bullet #1: What trend or insight you found
-- Summary bullet #2: Another key discovery or observation
-- (Add additional highlights as needed)
 
 ## ⚙️ How to View
 1. Click the `3. Final Report.ipynb` link on GitHub to open the interactive notebook.
